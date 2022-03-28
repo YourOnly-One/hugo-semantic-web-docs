@@ -286,95 +286,95 @@
   /* BGN: Generic colours */
     .text-black {
       color: hsla(0deg, 0%, 0%, 100%);
-      color: hwb(0deg, 0%, 100%, 100%);
+      color: hwb(0deg 0% 100% / 100%);
     }
     .text-white {
       color: hsla(0deg, 0%, 100%, 100%);
-      color: hwb(0deg, 100%, 0%, 100%);
+      color: hwb(0deg 100% 0% / 100%);
     }
     .text-red {
       color: hsla(0deg, 100%, 50%, 100%);
-      color: hwb(0deg, 0%, 0%, 100%);
+      color: hwb(0deg 0% 0% / 100%);
     }
     .text-lime {
       color: hsla(120deg, 100%, 50%, 100%);
-      color: hwb(120deg, 0%, 0%, 100%);
+      color: hwb(120deg 0% 0% / 100%);
     }
     .text-green {
       color: hsla(120deg, 100%, 25%, 100%);
-      color: hwb(120deg, 0%, 50%, 100%);
+      color: hwb(120deg 0% 50% / 100%);
     }
     .text-blue {
       color: hsla(240deg, 100%, 50%, 100%);
-      color: hwb(240deg, 0%, 0%, 100%);
+      color: hwb(240deg 0% 0% / 100%);
     }
     .text-aqua,
     .text-cyan {
       color: hsla(180deg, 100%, 50%, 100%);
-      color: hwb(180deg, 0%, 0%, 100%);
+      color: hwb(180deg 0% 0% / 100%);
     }
     .text-fuchsia,
     .text-magenta {
       color: hsla(300deg, 100%, 50%, 100%);
-      color: hwb(300deg, 0%, 0%, 100%);
+      color: hwb(300deg 0% 0% / 100%);
     }
     .text-yellow {
       color: hsla(60deg, 100%, 50%, 100%);
-      color: hwb(60deg, 0%, 0%, 100%);
+      color: hwb(60deg 0% 0% / 100%);
     }
     .text-orange {
       color: hsla(39deg, 100%, 50%, 100%);
-      color: hwb(39deg, 0%, 0%, 100%);
+      color: hwb(39deg 0% 0% / 100%);
     }
     .text-gold {
       color: hsla(51deg, 100%, 50%, 100%);
-      color: hwb(51deg, 0%, 0%, 100%);
+      color: hwb(51deg 0% 0% / 100%);
     }
     .text-pink {
       color: hsla(350deg, 100%, 88%, 100%);
-      color: hwb(350deg, 75%, 0%, 100%);
+      color: hwb(350deg 75% 0% / 100%);
     }
     .text-brown {
       color: hsla(26deg, 32%, 54%, 100%);
-      color: hwb(26deg, 39%, 31%, 100%);
+      color: hwb(26deg 39% 31% / 100%);
     }
     .text-brown {
       color: hsla(27deg, 35%, 51%, 100%);
-      color: hwb(27deg, 34%, 31%, 100%);
+      color: hwb(27deg 34% 31% / 100%);
     }
   /* END: Generic colours */
 
   /* BGN: Brand colours */
     .text-facebook {
       color: hsla(220deg, 46%, 48%, 100%);
-      color: hwb(220deg, 26%, 30%, 100%);
+      color: hwb(220deg 26% 30% / 100%);
     }
     .text-twitter {
       color: hsla(203deg, 78%, 49%, 100%);
-      color: hwb(203deg, 11%, 12%, 100%);
+      color: hwb(203deg 11% 12% / 100%);
     }
     .text-googleplus {
       color: hsla(5deg, 69%, 54%, 100%);
-      color: hwb(5deg, 22%, 14%, 100%);
+      color: hwb(5deg 22% 14% / 100%);
     }
     .text-ubuntu {
       color: hsla(16deg, 82%, 52%, 100%);
-      color: hwb(16deg, 13%, 9%, 100%);
+      color: hwb(16deg 13% 9% / 100%);
     }
     .text-mastodon {
       color: hsla(205deg, 70%, 51%, 100%);
-      color: hwb(205deg, 17%, 15%, 100%);
+      color: hwb(205deg 17% 15% / 100%);
     }
     .text-hubzilla {
       color: hsla(236deg, 35%, 40%, 100%);
-      color: hwb(236deg, 26%, 46%, 100%);
+      color: hwb(236deg 26% 46% / 100%);
     }
   /* END: Brand colours */
 
   /* BGN: Special custom colours */
     .text-cm, .text-gm, .text-cgm {
       color: hsla(210deg, 100%, 50%, 100%);
-      color: hwb(210deg, 0%, 0%, 100%);
+      color: hwb(210deg 0% 0% / 100%);
       font-weight: bold;
     }
   /* END: Special custom colours */
